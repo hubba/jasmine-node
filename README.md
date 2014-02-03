@@ -1,3 +1,4 @@
+Version `2.0.0` of Jasmine is currently included with node-jasmine.
 jasmine-node
 ======
 
@@ -10,7 +11,7 @@ spec framework available in node.js.
 jasmine
 -------
 
-Version `2.0.0` of Jasmine is currently included with node-jasmine.
+Version `2.0.0` of Jasmine is currently included with node-jasmine.[Karma project](https://github.com/karma-runner/karma-jasmine), which allows you to use the `ddescribe` and `iit` functions to run individual suites or specs.
 
 requirements
 ------------
